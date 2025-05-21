@@ -19,7 +19,8 @@ The purpose of this project is to:
 
 ## 🚀  project url 
 
-🌐 [View CV Live on GitHub Pages](https://roadmap.sh/projects/single-page-cv)
+🌐 [View CV Live on GitHub Pages](https://madhu1207-coder.github.io/single-page-cv/)
+
 
 
 ## ✅ Features
