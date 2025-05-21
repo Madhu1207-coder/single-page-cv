@@ -2,6 +2,10 @@
 
 This is a single-page **Curriculum Vitae (CV)** project built using only **HTML**. It is designed to showcase your skills, education, and experience in a clean and semantic format — without any external CSS or JavaScript.
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a0/ca/d3/a0cad338302e8edd92b5a63bf7299d7c.gif" alt="CV Banner" width="300" />
+</p>
+
 ## 📌 Project Objective
 
 The purpose of this project is to:
@@ -56,6 +60,8 @@ single-page-cv/
 ---
 
 > Made with ❤️ by Madhumitha B |  Frontend Developer
-```
 
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a2418f60390643.5a4b910e63f83.gif" alt="CV Banner" width="200" />
+</p>
 
