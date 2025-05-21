@@ -27,7 +27,9 @@ The purpose of this project is to:
 
 🌐 [project url](https://roadmap.sh/projects/single-page-cv)
 
+🚀  shareable link 
 
+🌐 [shareable link ](https://roadmap.sh/projects/single-page-cv/solutions?u=682de91bcf080f2a3215e0c9)
 
 ## ✅ Features
 
