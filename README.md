@@ -19,7 +19,7 @@ The purpose of this project is to:
 
 
 <p align="center">
-  <img src="" alt="CV Banner" width="300" />
+  <img src="https://github.com/Madhu1207-coder/single-page-cv/blob/main/single%20page%20cv%20.jpg" alt="CV Banner" width="500" />
 </p>
 
 ## 🚀 Live Demo
