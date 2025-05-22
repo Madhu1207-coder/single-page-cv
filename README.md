@@ -15,9 +15,15 @@ The purpose of this project is to:
 - Add **Open Graph (OG)** tags for better social sharing
 - Learn how to prepare an HTML file for future styling
 
+## output 💼💼
+
+
+<p align="center">
+  <img src="" alt="CV Banner" width="300" />
+</p>
+
 ## 🚀 Live Demo
 
-## 🚀  live demo  
 
 🌐 [View CV Live on GitHub Pages](https://madhu1207-coder.github.io/single-page-cv/)
 
@@ -30,6 +36,8 @@ The purpose of this project is to:
 🚀  shareable link 
 
 🌐 [shareable link ](https://roadmap.sh/projects/single-page-cv/solutions?u=682de91bcf080f2a3215e0c9)
+
+
 
 ## ✅ Features
 
